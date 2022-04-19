@@ -1,3 +1,4 @@
+```cpp
 #include<iostream>
 static const int maxNum = 25;
 struct tuple//矩阵元素
@@ -55,3 +56,4 @@ int main()
 	std::cin.get();
 	return 0;
 }
+```
