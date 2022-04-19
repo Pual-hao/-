@@ -12,9 +12,8 @@
 （其实就相当与拿结点内容为#的结点构成完全二叉树）
 
 上面的树用这个规则写出来就是：ABD1###E#T##CF##G#2##，规则很重要，不按规则输入的话会出问题。
-```cpp
+```java
 #include<iostream>
-```
 #include<queue>
 #include<fstream>
 #include<string>
